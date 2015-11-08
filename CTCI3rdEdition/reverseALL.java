@@ -1,12 +1,24 @@
-
-public class reverseALL {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+/*
+static Node reverseLL(Node head)
+{
+	if(head == null)
+	{
+		
 	}
-
+	else
+	{
+		Node current  = head;
+		Node prev = null;
+		
+		while(current.next!=null)
+		{
+			Node temp = currrent.next;
+			current.next = null;
+			current.next = prev;
+			prev = current;
+			current = temp;
+		}
+	}
 }
+
+*/
