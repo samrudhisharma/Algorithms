@@ -1,10 +1,12 @@
-import java.util.*;
-public class c1CheckRotationStrings {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Scanner sc = new Scanner(System.in);
-		
-	}
-
+//Solution taken from CTCI
+/*
+public boolean isRotation(String s1, String s2)
+{
+	int len = s1.length();
+	if(len == s2.length() && len>0){
+		String s1s1 = s1+s1;
+		return isSubstring(s1s1, s2);
+		}
+		return false;
 }
+*/
