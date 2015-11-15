@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="CSC 505"/>
+	<classpathentry kind="src" path="CTCI3rdEdition"/>
+	<classpathentry kind="src" path="GeeksForGeeks/Arrays"/>
+	<classpathentry kind="src" path="GeeksForGeeks/Strings"/>
+	<classpathentry kind="src" path="Java"/>
+	<classpathentry kind="src" path="LinkedLists"/>
+	<classpathentry kind="src" path="PIQ"/>
+	<classpathentry kind="src" path="Sort"/>
+	<classpathentry kind="src" path="Stack"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Threads"/>
+	<classpathentry kind="src" path="Trees"/>
+	<classpathentry kind="src" path="Warmup"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
